@@ -1,0 +1,17 @@
+{
+  "name": "learn",
+  "version": "0.0.1",
+  "description": "test",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.40.0"
+  },
+  "devDependencies": {
+    "tap":"*"
+    },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
